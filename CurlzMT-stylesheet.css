@@ -1,7 +1,6 @@
 @font-face {
     font-family: 'Curlz MT';
-    src: url('CurlzMT.woff2') format('woff2'),
-        url('CurlzMT.woff') format('woff');
+    src: url('CurlzMT.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
