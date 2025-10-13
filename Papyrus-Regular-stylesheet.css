@@ -1,7 +1,6 @@
 @font-face {
     font-family: 'Papyrus';
-    src: url('Papyrus-Regular.woff2') format('woff2'),
-        url('Papyrus-Regular.woff') format('woff');
+    src: url('Papyrus-Regular.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
