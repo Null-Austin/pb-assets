@@ -1,6 +1,6 @@
 /* https://cdn.jsdelivr.net/gh/Null-Austin/pb-assets@main/PhantomSans-stylesheet.css */
 @font-face {
-    font-family: 'Phantom Sans 0.7';
+    font-family: 'Phantom Sans';
     src: url('PhantomSans07-Bold.woff2') format('woff2');
     font-weight: bold;
     font-style: normal;
@@ -8,7 +8,7 @@
 }
 
 @font-face {
-    font-family: 'Phantom Sans 0.7';
+    font-family: 'Phantom Sans';
     src: url('PhantomSans07-Regular.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
